@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello World 👋
+
+- 💻 I'm a senior computer engineering student in Bogazici University.
+- 🌱 I’m currently learning Backend in general.
+- 👯 I’m looking to collaborate on Web Projects.
+- 📫 How to reach me: Feel free to mail me canbolukbas98@gmail.com
+
+
 
 <!--
 **cakmadam98/cakmadam98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
