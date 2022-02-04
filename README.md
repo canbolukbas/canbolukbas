@@ -1,9 +1,8 @@
 ### Hello World 👋
 
-- 💻 I'm a senior computer engineering student in Bogazici University.
-- 🌱 I’m currently learning Backend in general.
-- 👯 I’m looking to collaborate on Web Projects.
-- 📫 How to reach me: Feel free to mail me canbolukbas98@gmail.com
+- 💻 I'm a backend developer at Hipo.
+- 🌱 I’m currently learning backend and blockchain technologies.
+- 📫 How to reach me: canbolukbas98@gmail.com
 
 
 
