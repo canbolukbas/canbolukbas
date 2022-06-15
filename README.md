@@ -1,8 +1,8 @@
 ### Hello World 👋
 
 - 💻 I'm a backend developer at Hipo.
-- 🌱 I’m currently learning backend and blockchain technologies.
-- 📫 How to reach me: canbolukbas98@gmail.com
+- 🕵🏻‍♂️ I follow Algorand blocks to build better products.
+- 📫 canbolukbas98@gmail.com
 
 
 
