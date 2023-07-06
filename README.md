@@ -1,7 +1,8 @@
 ### Hello World 👋
 
-- 💻 I'm a backend developer at Hipo.
-- 🕵🏻‍♂️ I follow Algorand blocks to build better products.
+- 🇹🇷 Located in Istanbul, Turkey 
+- 🕺 Built findlatinnights.com, achieving $1 MRR
+- 🔎 Looking for a full-time job
 - 📫 canbolukbas98@gmail.com
 
 
