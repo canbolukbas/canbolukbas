@@ -1,8 +1,6 @@
 ### Hello World 👋
 
-- 🇹🇷 Located in Istanbul, Turkey 
-- 🕺 Built findlatinnights.com, achieving $1 MRR
-- 🔎 Looking for a full-time job
+- 🇩🇪 Located in Munich, Germany
 - 📫 canbolukbas98@gmail.com
 
 
